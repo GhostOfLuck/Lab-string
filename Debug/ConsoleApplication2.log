@@ -1,0 +1,14 @@
+﻿  ConsoleApplication2.cpp
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(38): warning C4101: k: неиспользованная локальная переменная
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(59): error C2065: cout: необъявленный идентификатор
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(64): error C2065: cout: необъявленный идентификатор
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(78): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(98): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(126): error C2065: cout: необъявленный идентификатор
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(131): error C2065: cout: необъявленный идентификатор
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(50): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(51): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+c:\users\ola\source\repos\consoleapplication2\consoleapplication2.cpp(108): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
